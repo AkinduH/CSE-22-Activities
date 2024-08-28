@@ -1,10 +1,10 @@
-# Problem: The Dining Philosophers Problem
+Problem: The Dining Philosophers Problem
 
 
-## Scenario: Five philosophers are seated at a round table, each with a plate of spaghetti in front of 
+Scenario: Five philosophers are seated at a round table, each with a plate of spaghetti in front of 
 them. There is one fork between each pair of philosophers. To eat, a philosopher needs to use 
 two forks: one from their left and one from their right.
 
 
-## Task: Implement a solution to the Dining Philosophers problem using mutual exclusion to prevent 
+Task: Implement a solution to the Dining Philosophers problem using mutual exclusion to prevent 
 deadlock and starvation.
