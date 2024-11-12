@@ -1,0 +1,3 @@
+truck_1#f,c
+truck_2#b,e,d
+46
