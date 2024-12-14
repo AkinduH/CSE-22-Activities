@@ -1,0 +1,34 @@
+You are required to test the performance of several Java Collection implementations for a few methods.
+
+The list of Java Collection implementations are:
+
+HashSet
+TreeSet
+LinkedHashSet
+ArrayList
+LinkedList
+ArrayDeque
+PriorityQueue
+HashMap
+TreeMap
+LinkedHashMap
+The list of methods for performance checking are:
+
+"add" a given element to the collection
+check if a collection "contains" a given element
+"remove" a given element from the collection (if it is present)
+"clear" all the elements in the collection
+Follow the guidelines below when constructing your program:
+
+Perform the tests using default initialCapacity and loadFactor values.
+When testing, first each collection must be loaded with 100,000 items.
+The items to be loaded are Integer objects.
+Each Integer object must be of a random value between 0 and 99,999 (inclusive).
+The time measurements must be obtained at nanoseconds.
+Run each test 100 times and get the average value as the result.
+You are required to submit a report in PDF format with a cover page and 4 sections containing
+
+A brief and concise description of your program design
+Full Java program code used for testing
+A comparison table of performance data
+Brief descriptive discussions on the reasons for performance variations
