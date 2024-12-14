@@ -1,0 +1,31 @@
+You have been asked to develop a system to improve the prediction of weather in Sri Lanka by collecting rainfall data.
+
+The idea is for individuals to record the starting time of any rain event along with the location given as GPS data, the ending time of the same rain event and location data, and amount of observed rain in a scale as Heavy rain, Upper high intensity, Lower high intensity, Higher low intensity, Upper low intensity, Light rain.
+
+This collected data will be sent to a database server for creating dataset that can be used in a ML/AI software product.
+
+This is a group project activity.
+
+Only one member of the project group needs to upload you group work.
+
+First task is to conduct following activities and prepare a suitable document.
+
+Systems requirements analysis
+System requirements specification
+Software requirements analysis
+Software requirements specification
+The report must be submitted as a PDF file. 
+
+You must make only one submission per group.
+
+The proposed structure of the submission is:
+
+Cover page with a suitable project name/title selected by the group.
+A brief introduction to the project giving the background, project description, importance, and usefulness.
+Based on the introduction and project description, a brief systems requirements analysis.
+Based on the systems requirements analysis, an itemized list of systems requirements specification with a brief explanation of each requirement.
+Based on the systems requirements specification, a brief software requirements analysis.
+Based on the software requirements analysis, an itemized list of software requirements specification (SRS) with a brief explanation of each requirement.
+It is suggested to include appropriate diagrams with correct labels and annotations in above sections of the submission.
+
+You can be brief in your text descriptions. But they must be clear and correct.
